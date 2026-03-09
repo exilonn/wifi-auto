@@ -12,6 +12,8 @@ Automatically connects to **ESSEC STUDENT** and fills in your credentials on the
    - Opens the setup window to enter your credentials
 2. A shortcut **"ESSEC WiFi"** is created on your Desktop
 3. Right-click the shortcut → **Pin to taskbar**
+⚠ If you are using windows 11, to add it to task bar do:
+   Right click the shortcut → Show more options → **Pin to taskbar**
 
 ---
 
